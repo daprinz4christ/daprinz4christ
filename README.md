@@ -57,9 +57,9 @@
         </section>
         <section class="contact">
             <h2>Contact</h2>
-            <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+            <p>Email: <a href="mailto: daprinz53@gmail.com>your-email@example.com</a></p>
             <p>Phone: <a href="tel:your-phone-number">your-phone-number</a></p>
-        </section>
+        </08137438364>
     </div>
     <footer>
         <p>&copy; 2024 Oluwasegun Ajayi. All rights reserved.</p>
